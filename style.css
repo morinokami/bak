@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
+
+.logo {
+    font-family: 'Noto Sans SC', sans-serif;
+}
+
+.post-title, .post-content {
+    font-family: 'Noto Sans SC', 'Noto Sans JP', sans-serif;
+}
