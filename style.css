@@ -8,3 +8,18 @@
 .post-title, .post-content {
     font-family: 'Noto Sans JP', 'Noto Sans SC', sans-serif;
 }
+
+.iframe-wrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    margin-bottom: 40px;
+}
+
+.iframe-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
