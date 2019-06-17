@@ -9,7 +9,19 @@
   </url>
   
   <url>
+    <loc>https://morinokami.github.io/tags/</loc>
+    <lastmod>2019-06-17T15:56:21+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://morinokami.github.io/</loc>
+    <lastmod>2019-06-17T15:56:21+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://morinokami.github.io/tags/%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6/</loc>
     <lastmod>2019-06-17T15:56:21+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -20,8 +32,26 @@
   </url>
   
   <url>
+    <loc>https://morinokami.github.io/tags/%E8%8F%AF%E6%9D%B1%E5%B8%AB%E7%AF%84%E5%A4%A7%E5%AD%A6/</loc>
+    <lastmod>2019-06-17T15:56:21+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://morinokami.github.io/tags/hsk/</loc>
+    <lastmod>2019-06-15T22:28:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://morinokami.github.io/posts/20190615.1/</loc>
     <lastmod>2019-06-15T22:28:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://morinokami.github.io/tags/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%AD%A6%E7%BF%92/</loc>
+    <lastmod>2019-06-15T22:28:59+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -36,11 +66,6 @@
   
   <url>
     <loc>https://morinokami.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://morinokami.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
