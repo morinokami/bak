@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© 2019 Shinya Fujino (powered by Hugo and Terminal theme)</copyright>
-    <lastBuildDate>Sat, 15 Jun 2019 22:28:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 23:02:36 +0900</lastBuildDate>
     
 	<atom:link href="https://morinokami.github.io/tags/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%AD%A6%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>一天一个计算机词: 操作系统</title>
+      <link>https://morinokami.github.io/posts/20190619.1/</link>
+      <pubDate>Wed, 19 Jun 2019 23:02:36 +0900</pubDate>
+      
+      <guid>https://morinokami.github.io/posts/20190619.1/</guid>
+      <description>操作系统 cāozuò xìtǒng とは、英語ではOperating System、日本語ではオペレーティングシステムのことだ。 OSの種類は星の数ほどあるが、代表的なものを中国語で列挙する:
+ 类Unix系统 (lèi Unix xìtǒng) 微软Windows (Wēiruǎn Windows) macOS iOS Android  このように、オペレーティングシステムの名称は基本的にはそのまま英語を使用することが多いようだ。なお、微软Windowsと类Unix系统は、それぞれMicrosoft WindowsとUnix-like operating systemsのことである。
+使用例:
+   汉语 拼音 日语     安装Linux操作系统。 Ānzhuāng Linux cāozuò xìtǒng. Linuxをインストールする。   华为鸿蒙系统是华为开发的操作系统。 Huáwèi Hóngméng xìtǒng shì Huáwèi kāifā de cāozuò xìtǒng. ファーウェイのHongMeng OSは、ファーウェイが開発したオペレーティングシステムだ。    </description>
+    </item>
     
     <item>
       <title>HSK4級の接続詞</title>
