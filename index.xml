@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© 2019 Shinya Fujino (powered by Hugo and Terminal theme)</copyright>
-    <lastBuildDate>Wed, 19 Jun 2019 23:02:36 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 14:28:32 +0900</lastBuildDate>
     
 	<atom:link href="https://morinokami.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>一天一个计算机词: 程序员</title>
+      <link>https://morinokami.github.io/posts/20190620.1/</link>
+      <pubDate>Thu, 20 Jun 2019 14:28:32 +0900</pubDate>
+      
+      <guid>https://morinokami.github.io/posts/20190620.1/</guid>
+      <description>程序员 chéngxùyuánとは、英語ではProgrammer、日本語ではプログラマーのことだ。 程序 chéngxù自体は、もともと順序や手順を表わす語であり、仕事の手順を意味する工作程序 gōngzuò chéngxùや、 訴訟手続きを意味する诉讼程序 sùsòng chéngxùなどの言葉がある。 ここから、コンピュータに対する命令・手続きを記述する職人を表わす言葉として、程序员という言葉が使われるようになったようだ。
+使用例:
+   汉语 拼音 日语     我是一个程序员，会Python、JavaScript、Go等等。 Wǒ shì yígè chéngxù yuán, huì Python, JavaScript, Go děngděng. 私はプログラマーです。Python、JavaScript、Goなどを書くことができます。    </description>
+    </item>
     
     <item>
       <title>一天一个计算机词: 操作系统</title>
