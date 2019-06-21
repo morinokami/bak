@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© 2019 Shinya Fujino (powered by Hugo and Terminal theme)</copyright>
-    <lastBuildDate>Thu, 20 Jun 2019 14:28:32 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 14:54:41 +0900</lastBuildDate>
     
 	<atom:link href="https://morinokami.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>一天一个计算机词: 版本控制</title>
+      <link>https://morinokami.github.io/posts/20190621.1/</link>
+      <pubDate>Fri, 21 Jun 2019 14:54:41 +0900</pubDate>
+      
+      <guid>https://morinokami.github.io/posts/20190621.1/</guid>
+      <description>版本控制 bǎnběn kòngzhìとは、英語ではVersion Control、日本語ではバージョンコントロール、あるいはバージョン管理のことだ。ソースコードなどのバージョン管理を可能にするソフトウェアをバージョン管理システム、中国語では版本控制系统 bǎnběn kòngzhì xìtǒngという。代表的なバージョン管理システムとしては、GitやSubversionなどがある。
+版本 bǎnběnは、「この辞典は最新版だ」という日本語の中の「版」とほぼ同じ意味で、バージョンのことを表わす。控制 kòngzhìは「抑える」や「制御する」という意味で、控制人口 (人口を抑制する) や控制市场 (市場をコントロールする) などのように通常は使用される。
+使用例:
+   汉语 拼音 日语     SVN是Subversion的简称，是一个开放源代码的版本控制系统。 SVN shì Subversion de jiǎnchēng, shì yíge kāifàng yuán dàimǎ de bǎnběn kòngzhì xìtǒng. SVNはSubversionの略称で、オープンソースのバージョン管理システムである。   版本控制是一种记录一个或若干文件内容变化，以便将来查阅特定版本修订情况的系统。 Bǎnběn kòngzhì shì yì zhǒng jìlù yíge huò ruògān wénjiàn nèiróng biànhuà, yǐbiàn jiānglái cháyuè tèdìng bǎnběn xiūdìng qíngkuàng de xìtǒng. バージョン管理とは、一つのファイルやファイルの集まりに対する変更を記録し、あとで特定バージョンの状態を調査できるようにするためのシステムである。    最後の例はPro Gitの简体中文版から引用した。</description>
+    </item>
     
     <item>
       <title>一天一个计算机词: 程序员</title>
@@ -20,7 +32,7 @@
       <guid>https://morinokami.github.io/posts/20190620.1/</guid>
       <description>程序员 chéngxùyuánとは、英語ではProgrammer、日本語ではプログラマーのことだ。 程序 chéngxù自体は、もともと順序や手順を表わす語であり、仕事の手順を意味する工作程序 gōngzuò chéngxùや、 訴訟手続きを意味する诉讼程序 sùsòng chéngxùなどの言葉がある。 ここから、コンピュータに対する命令・手続きを記述する職人を表わす言葉として、程序员という言葉が使われるようになったようだ。
 使用例:
-   汉语 拼音 日语     我是一个程序员，会Python、JavaScript、Go等等。 Wǒ shì yígè chéngxù yuán, huì Python, JavaScript, Go děngděng. 私はプログラマーです。Python、JavaScript、Goなどを書くことができます。    </description>
+   汉语 拼音 日语     我是一个程序员，会Python、JavaScript、Go等等。 Wǒ shì yíge chéngxù yuán, huì Python, JavaScript, Go děngděng. 私はプログラマーです。Python、JavaScript、Goなどを書くことができます。    </description>
     </item>
     
     <item>
