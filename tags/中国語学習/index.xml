@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© 2019 Shinya Fujino (powered by Hugo and Terminal theme)</copyright>
-    <lastBuildDate>Mon, 24 Jun 2019 18:00:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 18:29:03 +0900</lastBuildDate>
     
 	<atom:link href="https://morinokami.github.io/tags/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%AD%A6%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>一天一个计算机词: 按下</title>
+      <link>https://morinokami.github.io/posts/20190624.2/</link>
+      <pubDate>Mon, 24 Jun 2019 18:29:03 +0900</pubDate>
+      
+      <guid>https://morinokami.github.io/posts/20190624.2/</guid>
+      <description>按下 àn xiàとは、英語ではpress、日本語では「押す」を意味する。日本語ではキーボードのキーに対する動詞として「打つ」、「叩く」、「押す」などを用いるが、中国語では按下を使用する。
+なお、按という一文字だけで「手や指で押す」という意味があるため、単独でも同じ意味として使える。&amp;rdquo;下&amp;rdquo;の字が加わることで、「押さえつける」という感覚を強めているといえる。
+使用例:
+   汉语 拼音 日语     按下 Ctrl-C。 Àn xià Ctrl-C. Ctrl-Cを押す。    </description>
+    </item>
     
     <item>
       <title>Convert Jun Da&#39;s 现代汉语文学类文本单字列表 into a csv file</title>
