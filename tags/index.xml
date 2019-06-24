@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© 2019 Shinya Fujino (powered by Hugo and Terminal theme)</copyright>
-    <lastBuildDate>Sat, 22 Jun 2019 16:52:18 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 18:00:27 +0900</lastBuildDate>
     
 	<atom:link href="https://morinokami.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>中国語学習</title>
+      <link>https://morinokami.github.io/tags/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%AD%A6%E7%BF%92/</link>
+      <pubDate>Mon, 24 Jun 2019 18:00:27 +0900</pubDate>
+      
+      <guid>https://morinokami.github.io/tags/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%AD%A6%E7%BF%92/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IT用語</title>
@@ -18,15 +27,6 @@
       <pubDate>Sat, 22 Jun 2019 16:52:18 +0900</pubDate>
       
       <guid>https://morinokami.github.io/tags/it%E7%94%A8%E8%AA%9E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>中国語学習</title>
-      <link>https://morinokami.github.io/tags/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%AD%A6%E7%BF%92/</link>
-      <pubDate>Sat, 22 Jun 2019 16:52:18 +0900</pubDate>
-      
-      <guid>https://morinokami.github.io/tags/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%AD%A6%E7%BF%92/</guid>
       <description></description>
     </item>
     

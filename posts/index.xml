@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© 2019 Shinya Fujino (powered by Hugo and Terminal theme)</copyright>
-    <lastBuildDate>Sat, 22 Jun 2019 16:52:18 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 18:00:27 +0900</lastBuildDate>
     
 	<atom:link href="https://morinokami.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Convert Jun Da&#39;s 现代汉语文学类文本单字列表 into a csv file</title>
+      <link>https://morinokami.github.io/posts/20190624.1/</link>
+      <pubDate>Mon, 24 Jun 2019 18:00:27 +0900</pubDate>
+      
+      <guid>https://morinokami.github.io/posts/20190624.1/</guid>
+      <description>中国語テキストに含まれる漢字の出現頻度のリストを探していたところ、次のURLが見つかった:
+http://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=IM
+このままでは利用しづらいため、CSVファイルへと変換した。何かの役に立つかもしれない:
+hanzi_frequency.csv</description>
+    </item>
     
     <item>
       <title>一天一个计算机词: 框架</title>
